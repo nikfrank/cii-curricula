@@ -73,7 +73,7 @@ eg
        - `-w`
        - `HEAD~1`
        - `commit/branch commit/branch`
-       - ` ... > some-diff.patch
+       - ` ... > some-diff.patch`
        - git apply
      - git commit
        - :wq!
